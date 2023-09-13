@@ -1,0 +1,2 @@
+Untuk membuat halaman web dengan form dan tabel yang memenuhi kriteria, menggunakan konsep OOP dan Asynchronous, saya menggunakan HTML, CSS, JavaScript, dan memanfaatkan framework CSS seperti Bootstrap untuk tampilan yang lebih menarik.
+Dalam contoh di atas, saya menggunakan Bootstrap untuk mengatur tampilan dan tab. Ketika formulir registrasi disubmit, data akan divalidasi dan jika valid, objek Pendaftar akan dibuat dan ditambahkan ke pendaftarList. Selanjutnya, tabel pendaftar akan diperbarui, dan resume akan ditampilkan di tab "List Pendaftar".
